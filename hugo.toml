@@ -1,0 +1,65 @@
+baseURL = "https://avinmendiratta.github.io/"
+locale = "en-us"
+title = "Le voyage de Bhārata"
+theme = "no-fate"
+
+[outputs]
+  home = ["HTML", "JSON", "RSS"]
+  section = ["HTML", "RSS"]
+  page = ["HTML"]
+
+[[menu.main]]
+  name = "Technical"
+  url = "/technical/"
+  weight = 1
+
+[[menu.main]]
+  name = "Fiction"
+  url = "/fiction/"
+  weight = 2
+
+[[menu.main]]
+  name = "Lifestyle"
+  url = "/lifestyle/"
+  weight = 3
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 4
+
+[params]
+  author = "Avin"
+  description = "When are we, where are we and how did we get here?"
+
+  [params.noFate]
+    style = "wild"
+    defaultMode = "editorial"
+    defaultAccent = "signal"
+    showThemeToggle = true
+    showSearch = false
+    showReadingTime = true
+    enableImageProcessing = true
+
+    [params.noFate.home]
+      modules = ["opening", "featured_archive", "selected_writing", "visual_interruption"]
+
+    [params.noFate.wild]
+      masthead = "Who are we?"
+      issue = "Vol. L"
+      strapline = "Demands of Identity, Loyalty and Honesty"
+
+    [params.noFate.images]
+      widths = [480, 800, 1200, 1600]
+      webpQuality = 82
+
+[markup]
+  [markup.highlight]
+    style = "dracula"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[privacy]
+  [privacy.youtube]
+    privacyEnhanced = true

@@ -1,0 +1,23 @@
+/* Custom stylesheet for your site */
+/* This loads AFTER the theme CSS, so it overrides */
+
+/* Example: Customize signal color */
+:root {
+  --color-signal: #ff6b5b;
+}
+
+/* Example: Make homepage h1 more dramatic */
+.home h1,
+.poster h1 {
+  font-size: clamp(2rem, 10vw, 5rem);
+  letter-spacing: -0.02em;
+  line-height: 1.1;
+}
+
+/* Example: Featured posts styling */
+.editorial-featured {
+  border-left: 4px solid var(--color-signal);
+  padding-left: 1.5rem;
+}
+
+/* Add your custom styles below */

@@ -1,0 +1,15 @@
+{{ $url := .Get "url" }}
+{{ $height := .Get "height" | default "380" }}
+
+<div style="margin: 2rem 0; border-radius: 12px; overflow: hidden;">
+  <iframe 
+    style="border-radius:12px;" 
+    src="{{ $url }}" 
+    width="100%" 
+    height="{{ $height }}" 
+    frameBorder="0" 
+    allowfullscreen="" 
+    allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+    loading="lazy">
+  </iframe>
+</div>
