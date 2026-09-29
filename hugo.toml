@@ -5,7 +5,7 @@ theme = "no-fate"
 
 [outputs]
   home = ["HTML", "JSON", "RSS"]
-  section = ["HTML", "RSS"]
+  section = ["HTML"]
   page = ["HTML"]
 
 [[menu.main]]
