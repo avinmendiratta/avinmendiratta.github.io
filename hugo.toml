@@ -9,18 +9,18 @@ theme = "no-fate"
   page = ["HTML"]
 
 [[menu.main]]
-  name = "Technical"
-  url = "/technical/"
+  name = "Yuktiyā"
+  url = "/yuktiyā/"
   weight = 1
 
 [[menu.main]]
-  name = "Fiction"
-  url = "/fiction/"
+  name = "Airānova"
+  url = "/airānova/"
   weight = 2
 
 [[menu.main]]
-  name = "Lifestyle"
-  url = "/lifestyle/"
+  name = "Salt"
+  url = "/salt/"
   weight = 3
 
 [[menu.main]]
