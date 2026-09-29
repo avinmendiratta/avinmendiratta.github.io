@@ -1,11 +1,11 @@
 ---
-title: "Story 2"
+title: "Who are we?"
 date: 2026-01-22
 draft: true
-summary: "Sample story 2. Replace with your fiction."
+summary: ""
 
 visual:
-  mode: "editorial"
+  mode: "poster"
   accent: "signal"
 
 editorial:

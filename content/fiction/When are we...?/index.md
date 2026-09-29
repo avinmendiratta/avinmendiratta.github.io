@@ -1,22 +1,24 @@
 ---
-title: "Post Title"
+title: "When are we...?"
 date: 2026-01-15
 draft: false
-summary: "One-line summary for listings."
+summary: ""
 content:
-  format: "editorial"
+  format: "poster"
 visual:
-  mode: "editorial"
+  mode: "poster"
   accent: "signal"
+  hero: "When are we.jpg"
+  hero_alt: "Guardians: The Himalayas"
+  hero_treatment: "raw"
 editorial:
   featured: false
 ---
 
 # When are we…
 
-!["Guardians: The Himalayas"](images/When are we.jpg)
-
 Primary: Ivan
+
 Secondary: Ādi
 
 <span style="color: purple;"><em>When are we, where are we and how did we get here?</em></span>
