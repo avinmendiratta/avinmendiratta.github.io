@@ -5,10 +5,10 @@ draft: false
 summary: ""
 
 content:
-  format: "poster"
+  format: "editorial"
 
 visual:
-  mode: "poster"
+  mode: "editorial"
   accent: "signal"
   hero: "When are we.jpg"
   hero_alt: "Guardians: The Himalayas"
