@@ -7,7 +7,8 @@ description: "Today is Chaitra Shukla Pratipada, 2140 i.e., the New Year"
 visual:
     mode: "poster"
     wild_title_lines:
-        - "Le voyage"
+        - "Le"
+        - "voyage"
         - "de"
         - "Bhārata"
     wild_reference: "Ref. 01 / Built by hand"
