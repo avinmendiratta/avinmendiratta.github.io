@@ -14,5 +14,5 @@ visual:
     wild_reference: "Demands of Identity, Loyalty and Honesty"
 ---
 
-we can live with different people can having different truths, surely we can live with varying kinds of honesty
+we can live with different people having different truths, surely we can live with varying kinds of honesty
 
