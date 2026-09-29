@@ -5,7 +5,7 @@ draft: false
 summary: ""
 
 content:
-  format: "editorial"
+  format: ""
 
 visual:
   mode: "editorial"

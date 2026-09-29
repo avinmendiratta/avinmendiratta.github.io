@@ -29,7 +29,7 @@ theme = "no-fate"
   weight = 4
 
 [params]
-  author = "Avin"
+  author = ""
   description = "When are we, where are we and how did we get here?"
 
   [params.noFate]

@@ -1,8 +1,8 @@
 ---
-title: "Airāvat"
+title: "Airānova"
 date: 2026-01-01
 draft: false
-description: "Desi worldbuilding"
+description: "Indo-futurism"
 
 visual:
   mode: "archive"
