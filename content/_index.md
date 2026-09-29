@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "Le voyage de Bhārata"
 date: 2026-01-01
 draft: false
 description: "Essays on systems programming, architecture, and ideas."
