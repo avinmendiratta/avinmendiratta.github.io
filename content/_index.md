@@ -1,19 +1,18 @@
 ---
-title: "Le voyage&#10;de&#10;Bhārta"
+title: "Le voyage de Bhārta"
 date: 2026-01-01
 draft: false
-description: "Today is Chaitra Shukla Pratipada, 2140 i.e., the New Year"
+description: "When are we, where are we and how did we get here?"
 
 visual:
     mode: "poster"
     wild_title_lines:
-        - "Le"
-        - "voyage"
-        - "de"
-        - "Bhārata"
-    wild_reference: "Ref. 01 / Built by hand"
+        - "Le voyage"
+        - ""
+        - ""
+        - "de Bhārata"
+    wild_reference: "Demands of Identity, Loyalty and Honesty"
 ---
 
-though, when has something as petty as reason stopped a luxury from being reasonable, lol
+we can live with different people can having different truths, surely we can live with varying kinds of honesty
 
-“Duniya mein jeena hai toh kaam kar pyaare!”

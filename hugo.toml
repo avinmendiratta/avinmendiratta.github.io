@@ -45,8 +45,8 @@ theme = "no-fate"
       modules = ["opening", "featured_archive", "selected_writing", "visual_interruption"]
 
     [params.noFate.wild]
-      masthead = "Who are we?"
-      issue = "Vol. L"
+      masthead = "Chaitra Shukla Pratipada"
+      issue = "2140"
       strapline = "Demands of Identity, Loyalty and Honesty"
 
     [params.noFate.images]
