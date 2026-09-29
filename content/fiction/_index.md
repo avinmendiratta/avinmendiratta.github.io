@@ -1,14 +1,11 @@
 ---
-title: "Fiction"
+title: "Airāvat"
 date: 2026-01-01
 draft: false
-description: "Stories, worldbuilding, and creative writing."
+description: "Desi worldbuilding"
 
 visual:
   mode: "archive"
   accent: "signal"
----
 
-# Fiction
 
-Original stories, character sketches, and worlds.

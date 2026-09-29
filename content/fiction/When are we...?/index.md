@@ -3,16 +3,23 @@ title: "When are we...?"
 date: 2026-01-15
 draft: false
 summary: ""
+
 content:
   format: "poster"
+
 visual:
   mode: "poster"
   accent: "signal"
   hero: "When are we.jpg"
   hero_alt: "Guardians: The Himalayas"
   hero_treatment: "raw"
+
+archive:
+
 editorial:
   featured: false
+
+seo:
 ---
 
 # When are we…
