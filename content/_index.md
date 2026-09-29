@@ -14,6 +14,6 @@ visual:
     wild_reference: "Ref. 01 / Built by hand"
 ---
 
-Essays on systems programming, computer architecture, and the spaces between code and thought.
+though, when has something as petty as reason stopped a luxury from being reasonable, lol
 
-Currently exploring compilers, OS internals, Sanskrit linguistics, and robotics.
+“Duniya mein jeena hai toh kaam kar pyaare!”
